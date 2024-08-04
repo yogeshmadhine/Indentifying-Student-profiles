@@ -194,7 +194,23 @@ This table shows the ratio of online student judgements for a given student prof
 
 
 
-
+Online Judge (OJ) systems are widely used in programming
+courses for their fast and objective grading of student
+submissions. However, these systems typically only indicate
+whether a submission meets the assignment requirements,
+offering little additional feedback. This limitation could be
+addressed by extracting more insights from the data collected
+by OJ systems, such as student habits, behavior patterns, and
+profiles related to task success or failure.To overcome this, our
+work applies Educational Data Mining (EDM) techniques,
+specifically Multi-Instance Learning (MIL) and classical Machine
+Learning (ML),..We evaluated our methodology using data from
+a programming course in a Computer Science degree,
+including over 2,500 submissions from around 90 students
+across three academic years. Our model accurately predicts
+whether students will pass or fail based on their submission
+behavior and identifies at-risk student groups. This feedback
+can help both students and instructors
 
 
 
